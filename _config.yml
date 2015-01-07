@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Peter Simon
+tagline:          'IT Consulting'
+description:      'Skalierbare und hochverfügbareT Infrastrukturen,  auf Basis von Open Source Technologien'
+url:              http://www.simon-it-consulting.de
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Peter Simon'
+  url:            https://twitter.com/no_tomato_
 
 paginate:         5
 
