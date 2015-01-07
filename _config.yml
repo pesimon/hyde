@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Peter Simon
 tagline:          'IT Consulting'
-description:      'Skalierbare und hochverfügbareT Infrastrukturen,  auf Basis von Open Source Technologien'
+description:      'Skalierbare und hochverfügbare Web-Infrastrukturen, auf Basis von Open Source Technologien.'
 url:              http://www.simon-it-consulting.de
 baseurl:          /
 
